@@ -1,5 +1,3 @@
-
-
 $(function() {
 $(".evdekal").hover(function() {
     
